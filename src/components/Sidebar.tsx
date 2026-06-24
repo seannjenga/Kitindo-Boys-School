@@ -1,4 +1,3 @@
-import React from 'react';
 import { LayoutDashboard, Receipt, Wallet, Users, BarChart3, LogOut, Settings, Zap } from 'lucide-react';
 
 const navigation = [
